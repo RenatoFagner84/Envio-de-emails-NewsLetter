@@ -52,7 +52,7 @@ Este projeto está licenciado sob a Licença MIT.
 
 Esperamos que este projeto seja útil para suas necessidades de envio de emails utilizando Node.js e suas bibliotecas associadas. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
 
-Equipe de Desenvolvimento
+Renato Fagner
 
 
 
